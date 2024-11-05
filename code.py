@@ -6,3 +6,4 @@ def greet_the_student():
 if(__name__ == "__main__"):
     print(greet_the_student())
     print("kayit")
+    print("a1")
